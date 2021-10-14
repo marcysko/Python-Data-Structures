@@ -18,4 +18,3 @@ while not s.is_empty():
         reversed_string += s.pop()
 
 print(reversed_string)
-****
